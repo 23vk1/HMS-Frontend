@@ -9,9 +9,6 @@ Currently, two official plugins are available:
 
 
 
-vijay@gmail.com     123456789   Admin
-vijay1@gmail.com    123456789   Patient
-vijay2@gmail.com    123456789   Doctor
 
 
 
